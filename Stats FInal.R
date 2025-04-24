@@ -38,5 +38,3 @@ head(rankmean)
 
 p_value <- mean(abs(boot.samples$diff))
 p_value
-
-#2-a
