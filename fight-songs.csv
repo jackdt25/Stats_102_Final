@@ -1,0 +1,66 @@
+school,conference,song_name,year,official_song,contest,bpm,sec_duration,fight,number_fights,victory,win_won,victory_win_won,rah,nonsense,colors,men,opponents,spelling,trope_count
+Notre Dame,Independent,Victory March,1908,Yes,No,152,64,Yes,1,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,6
+Baylor,Big 12,Old Fight,1947,Yes,No,76,99,Yes,4,Yes,Yes,Yes,No,No,Yes,No,No,Yes,5
+Iowa State,Big 12,Iowa State Fights,1930,Yes,No,155,55,Yes,5,No,No,No,Yes,No,No,Yes,No,Yes,4
+Kansas,Big 12,I'm a Jayhawk,1912,Yes,No,137,62,No,0,No,No,No,No,Yes,No,Yes,Yes,No,3
+Kansas State,Big 12,Wildcat Victory,1927,Yes,No,80,67,Yes,6,Yes,No,Yes,No,No,Yes,No,No,No,3
+Oklahoma,Big 12,Boomer Sooner,1905,Yes,No,153,37,No,0,No,No,No,Yes,No,No,No,No,Yes,2
+Oklahoma State,Big 12,Ride 'Em Cowboys,1934,Yes,No,180,29,Yes,5,Yes,No,Yes,No,No,No,Yes,Yes,No,4
+Texas,Big 12,Texas Fight,1923,Yes,No,81,65,Yes,17,No,Yes,Yes,No,No,Yes,No,Yes,No,4
+TCU,Big 12,TCU Fight Song,1928,Yes,No,149,47,Yes,2,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,6
+Texas Tech,Big 12,"Fight, Raiders, Fight",1936,Yes,No,159,54,Yes,8,Yes,No,Yes,No,No,Yes,No,No,No,3
+West Virginia,Big 12,Hail West Virginia,1915,Yes,No,152,92,No,0,No,No,No,No,No,No,Yes,No,No,1
+Illinois,Big Ten,Oskee-Wow-Wow,1910,Yes,No,162,60,No,0,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,6
+Indiana,Big Ten,"Indiana, Our Indiana",1912,Yes,No,150,63,Yes,1,No,No,No,No,No,Yes,No,No,Yes,3
+Iowa,Big Ten,Iowa Fight Song,1950,Yes,No,150,72,Yes,9,No,Yes,Yes,Yes,No,No,No,No,No,3
+Maryland,Big Ten,Maryland Fight Song,1939,Yes,No,142,56,Yes,8,Yes,Yes,Yes,No,No,No,No,No,No,3
+Michigan,Big Ten,The Victors,1898,Yes,No,83,122,No,0,No,No,No,No,No,No,No,No,No,0
+Michigan State,Big Ten,Victory for MSU,1915,Yes,No,145,112,Yes,6,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,5
+Minnesota,Big Ten,The Minnesota Rouser,1909,Yes,Yes,151,60,No,0,No,No,No,Yes,Yes,No,No,No,Yes,3
+Nebraska,Big Ten,Dear Old Nebraska U.,1924,No,No,136,94,No,0,No,No,No,No,No,No,Yes,No,No,1
+Northwestern,Big Ten,Go! U Northwestern,1912,Yes,No,140,57,Yes,1,Yes,Yes,Yes,Yes,No,No,No,No,No,4
+Ohio State,Big Ten,Buckeye Battle Cry,1919,Yes,Yes,178,89,Yes,1,Yes,Yes,Yes,No,No,Yes,Yes,No,No,5
+Penn State,Big Ten,"Fight On, State",1933,Yes,No,145,81,Yes,5,Yes,Yes,Yes,No,No,Yes,No,No,Yes,5
+Purdue,Big Ten,Hail Purdue,1912,Yes,No,160,86,No,0,Yes,No,Yes,No,No,Yes,No,No,No,2
+Rutgers,Big Ten,The Bells Must Ring,1931,Yes,Yes,75,74,Yes,10,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,8
+Wisconsin,Big Ten,"On, Wisconsin",1909,Yes,No,132,134,Yes,5,No,Yes,Yes,No,No,No,Yes,No,No,3
+Arizona,Pac-12,"Bear Down, Arizona",1952,No,No,144,83,No,0,No,No,No,No,No,Yes,No,No,No,1
+Arizona State,Pac-12,Maroon and Gold,1948,Yes,No,150,106,Yes,3,Yes,No,Yes,No,No,Yes,No,No,Yes,4
+California,Pac-12,Fight for California,1909,Yes,No,134,88,Yes,2,Yes,Yes,Yes,No,No,Yes,Yes,No,No,5
+Colorado,Pac-12,Fight CU,,Yes,No,151,27,Yes,8,Yes,Yes,Yes,No,No,No,No,No,Yes,4
+Oregon,Pac-12,Mighty Oregon,1916,Yes,No,65,80,Yes,2,Yes,Yes,Yes,No,No,No,Yes,Yes,No,5
+Oregon State,Pac-12,Hail to Old OSU,1914,Yes,No,137,63,Yes,2,No,No,No,No,No,No,No,No,Yes,2
+Stanford,Pac-12,Come Join the Band,1907,Yes,No,135,63,No,0,No,Yes,Yes,No,No,Yes,Yes,No,No,3
+UCLA,Pac-12,Sons of Westwood,1959,Yes,No,72,69,Yes,3,No,No,No,No,No,Yes,Yes,Yes,Yes,5
+USC,Pac-12,"Fight On, USC",1922,Yes,Yes,75,60,Yes,5,Yes,Yes,Yes,No,No,No,Yes,No,Yes,5
+Utah,Pac-12,Utah Man,1904,Yes,No,168,66,Yes,1,No,No,No,No,Yes,Yes,Yes,No,No,4
+Washington,Pac-12,Bow Down to Washington,1915,Yes,Yes,139,89,Yes,1,Yes,No,Yes,Yes,No,Yes,No,No,No,4
+Washington State,Pac-12,The Fight Song,1919,Yes,No,81,64,Yes,7,Yes,Yes,Yes,No,No,Yes,No,No,Yes,5
+Alabama,SEC,Yea Alabama,1926,Yes,Yes,153,59,Yes,3,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,6
+Arkansas,SEC,Arkansas Fight,1913,Yes,No,77,88,Yes,3,No,No,No,Yes,No,No,No,No,Yes,3
+Auburn,SEC,War Eagle,1955,Yes,No,77,27,Yes,1,Yes,Yes,Yes,No,No,Yes,No,No,No,4
+Florida,SEC,The Orange and Blue,1925,Yes,No,71,66,Yes,1,No,No,No,No,No,Yes,No,No,No,2
+Georgia,SEC,"Glory, Glory",1915,No,No,162,41,No,0,No,No,No,No,No,No,No,No,Yes,1
+Kentucky,SEC,On! On! U of K,1923,Yes,Yes,79,52,Yes,4,Yes,Yes,Yes,No,No,Yes,No,No,Yes,5
+LSU,SEC,Fight for LSU,1937,Yes,No,168,83,Yes,5,No,Yes,Yes,Yes,No,Yes,No,No,Yes,5
+Mississippi,SEC,Forward Rebels,,Yes,No,153,65,Yes,6,Yes,Yes,Yes,No,No,Yes,No,No,No,4
+Mississippi State,SEC,Hail State,1936,Yes,Yes,146,54,Yes,2,Yes,Yes,Yes,No,No,No,No,No,Yes,4
+Missouri,SEC,Fight Tiger,1946,Yes,Yes,138,86,Yes,4,Yes,Yes,Yes,No,No,No,No,No,No,3
+South Carolina,SEC,The Fighting Gamecocks Lead the Way (Step to the Rear),1968,Yes,No,153,64,Yes,4,No,Yes,Yes,No,No,Yes,No,No,Yes,4
+Tennessee,SEC,Rocky Top,1967,No,No,149,53,No,0,No,No,No,No,No,No,No,No,No,0
+Texas A&M,SEC,Aggie War Hymn,1918,No,Yes,117,172,Yes,1,No,No,No,No,Yes,No,Yes,Yes,No,4
+Vanderbilt,SEC,Dynamite,1941,Yes,No,72,45,Yes,3,Yes,Yes,Yes,No,No,No,No,No,No,3
+Boston College,ACC,For Boston,,Yes,No,147,84,No,0,No,No,No,No,No,No,No,No,No,0
+Clemson,ACC,Tiger Rag,1917,Yes,No,145,78,No,0,No,No,No,No,No,No,No,No,Yes,1
+Duke,ACC,Fight Blue Devils,1947,Yes,No,139,58,Yes,5,No,Yes,Yes,No,No,Yes,No,Yes,No,4
+Florida State,ACC,FSU Fight Song,1950,Yes,No,135,92,Yes,6,Yes,Yes,Yes,No,Yes,No,No,No,Yes,5
+Georgia Tech,ACC,Ramblin' Wreck From Georgia Tech,,Yes,No,148,68,No,0,No,No,No,No,No,Yes,Yes,Yes,No,3
+Louisville,ACC,Fight! U of L,1962,Yes,No,139,80,Yes,3,Yes,Yes,Yes,Yes,No,No,No,No,Yes,5
+Miami,ACC,Miami U How-Dee-Doo,1950,Yes,No,75,73,Yes,3,Yes,No,Yes,No,No,No,No,No,Yes,3
+North Carolina,ACC,I'm a Tar Heel Born,,Yes,No,158,38,No,0,No,No,No,Yes,No,No,No,No,No,1
+North Carolina State,ACC,The Red & White Song,1961,No,No,90,82,No,0,No,No,No,No,No,Yes,No,Yes,Yes,3
+Pitt,ACC,Hail to Pitt,1911,Yes,No,79,110,No,0,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,6
+Syracuse,ACC,Down the Field,1914,Yes,No,137,85,Yes,3,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,6
+Virginia,ACC,The Good Old Song,1893,No,No,112,42,No,0,No,No,No,Yes,Yes,No,No,No,Yes,3
+Virginia Tech,ACC,Tech Triumph,1919,Yes,No,133,71,No,0,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,5
+Wake Forest,ACC,O Here's To Wake Forest,1908,Yes,No,146,69,No,0,No,No,No,Yes,No,Yes,Yes,No,No,3
