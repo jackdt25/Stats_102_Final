@@ -1,6 +1,6 @@
 #1-a
 icu <- read.csv("icu.csv")
-sys_bp <- table(icu$sys,)
+sys_bp <- table(icu$sys)
 head(sys_bp)
 boot.sample <- data.frame(sim=1:10000, stat=NA)
 for(i in 1:10000){
@@ -15,26 +15,31 @@ upper95<-rankdiff[975]
 upper95
 
 #1-b
-Yesmean <- mean(icu$cpr=="Yes")
-Yesmean
-YesSd <- sd(icu$cpr=="Yes")
-YesSd
-Nomean <- mean(icu$cpr=="No")
-Nomean
-NoSd <-sd(icu$cpr=="No")
-NoSd
-boot.samples<-data.frame(sim=1:1000,Yesmean=NA,Nomean=NA,diff=NA)
+library(mosaic)
+obs_diff <- diff(median(age~shuffle(cpr),data=icu))
+obs_diff
+null_dist <-do(1000)*diff(median(age~shuffle(cpr),data=icu))
+head(null_dist)
+prop(~Yes >= obs_diff, data=null_dist) + prop(~Yes <= -obs_diffm data=null_dist)
 
-for(i in 1:1000){
-  boot.samples$Yesmean[i]<-mean(sample(icu$cpr=="Yes",size=200,replace=TRUE))
-  boot.samples$Yesmean[i]<-mean(sample(icu$cpr=="No",size=200,replace=TRUE))
-}
+#3-a
+library(ggplot2)
+library(tidyverse)
+library(mosaic)
+songs<-read.csv("fight-songs.csv")
+head(songs)
+dim(songs)
+count(songs)
+yes_mean <- mean(songs$bpm[songs$victory_win_won=="Yes"])
+yes_mean
+yes_sd <- sd(songs$bpm[songs$victory_win_won=="Yes"])
+yes_sd
+no_mean <-mean(songs$bpm[songs$victory_win_won=="No"]) 
+no_mean
+no_sd<- sd(songs$bpm[songs$victory_win_won=="No"])
+no_sd
+ggplot(songs,aes(x=bpm)) +geom_histogram()
+t_stat <- t.test(bpm~victory_win_won, data=songs)
 
-boot.samples$diff<-boot.samples$Yesmean-boot.samples$Nomean
 
-rankmean<-sort(boot.samples$diff)
 
-head(rankmean)
-
-p_value <- mean(abs(boot.samples$diff))
-p_value
